@@ -1,0 +1,90 @@
+
+---Downloaded files---
+The import files for: Open Shop Grocery were successfully downloaded!
+Initial max execution time = 5000
+Files info:
+Site URL = http://localhost/wp_woocommerce
+Data file = E:\server\htdocs\wp_woocommerce/wp-content/uploads/2020/10/demo-content-import-file_2020-10-29__12-28-56.xml
+Widget file = E:\server\htdocs\wp_woocommerce/wp-content/uploads/2020/10/demo-widgets-import-file_2020-10-29__12-28-56.json
+Customizer file = E:\server\htdocs\wp_woocommerce/wp-content/uploads/2020/10/demo-customizer-import-file_2020-10-29__12-28-56.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Products - Products - Imported
+Products by Rating - No Title - Imported
+Open Shop : Post Slide widget - Latest News - Imported
+
+Footer Top Second Widget : 
+
+Image - No Title - Imported
+
+Footer Below Second Widget : 
+
+Image - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+Image - No Title - Imported
+
+Footer Widget Area 2 : 
+
+Products - Products - Imported
+
+Footer Widget Area 3 : 
+
+Product Categories - Product categories - Imported
+
+Footer Widget Area 4 : 
+
+Text - Contact Details - Imported
+
+WooCommerce Sidebar : 
+
+Products - Products - Imported
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+
+Product Sidebar : 
+
+Products - Products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
